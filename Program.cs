@@ -19,7 +19,10 @@
             //Problem4.copy();
 
             //problem 5
-            Problem5.findduplicate();
+            //Problem5.findduplicate();
+
+            //problem 6
+            Program6.duplicate();
         }
     }
 }
