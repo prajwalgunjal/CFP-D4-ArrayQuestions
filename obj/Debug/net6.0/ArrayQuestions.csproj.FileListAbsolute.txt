@@ -1,0 +1,15 @@
+C:\Users\prajw\source\repos\ArrayQuestions\ArrayQuestions\bin\Debug\net6.0\ArrayQuestions.exe
+C:\Users\prajw\source\repos\ArrayQuestions\ArrayQuestions\bin\Debug\net6.0\ArrayQuestions.deps.json
+C:\Users\prajw\source\repos\ArrayQuestions\ArrayQuestions\bin\Debug\net6.0\ArrayQuestions.runtimeconfig.json
+C:\Users\prajw\source\repos\ArrayQuestions\ArrayQuestions\bin\Debug\net6.0\ArrayQuestions.dll
+C:\Users\prajw\source\repos\ArrayQuestions\ArrayQuestions\bin\Debug\net6.0\ArrayQuestions.pdb
+C:\Users\prajw\source\repos\ArrayQuestions\ArrayQuestions\obj\Debug\net6.0\ArrayQuestions.csproj.AssemblyReference.cache
+C:\Users\prajw\source\repos\ArrayQuestions\ArrayQuestions\obj\Debug\net6.0\ArrayQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prajw\source\repos\ArrayQuestions\ArrayQuestions\obj\Debug\net6.0\ArrayQuestions.AssemblyInfoInputs.cache
+C:\Users\prajw\source\repos\ArrayQuestions\ArrayQuestions\obj\Debug\net6.0\ArrayQuestions.AssemblyInfo.cs
+C:\Users\prajw\source\repos\ArrayQuestions\ArrayQuestions\obj\Debug\net6.0\ArrayQuestions.csproj.CoreCompileInputs.cache
+C:\Users\prajw\source\repos\ArrayQuestions\ArrayQuestions\obj\Debug\net6.0\ArrayQuestions.dll
+C:\Users\prajw\source\repos\ArrayQuestions\ArrayQuestions\obj\Debug\net6.0\refint\ArrayQuestions.dll
+C:\Users\prajw\source\repos\ArrayQuestions\ArrayQuestions\obj\Debug\net6.0\ArrayQuestions.pdb
+C:\Users\prajw\source\repos\ArrayQuestions\ArrayQuestions\obj\Debug\net6.0\ArrayQuestions.genruntimeconfig.cache
+C:\Users\prajw\source\repos\ArrayQuestions\ArrayQuestions\obj\Debug\net6.0\ref\ArrayQuestions.dll
