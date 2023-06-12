@@ -7,7 +7,10 @@
             Console.WriteLine("Hello, World!");
 
             //problem 1: 
-            Problem1.takeArray();
+            //Problem1.takeArray();
+
+            // problem 2: 
+            Problem2.revArray();
         }
     }
 }
