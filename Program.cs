@@ -13,7 +13,10 @@
             //Problem2.revArray();
 
             // problem 3:
-            Problem3.sumofelement();
+            //Problem3.sumofelement();
+
+            //problem 4
+            Problem4.copy();
         }
     }
 }
