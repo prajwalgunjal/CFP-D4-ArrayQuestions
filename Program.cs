@@ -10,7 +10,10 @@
             //Problem1.takeArray();
 
             // problem 2: 
-            Problem2.revArray();
+            //Problem2.revArray();
+
+            // problem 3:
+            Problem3.sumofelement();
         }
     }
 }

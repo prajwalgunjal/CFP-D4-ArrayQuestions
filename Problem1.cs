@@ -32,9 +32,9 @@ namespace ArrayQuestions
                 array[i] = element;
             }
 
-            foreach(int element in array)
+            for (int i = 0; i < array.Length; i++)
             {
-                Console.WriteLine(element);
+                Console.WriteLine(array[i]);
             }
         }
 
