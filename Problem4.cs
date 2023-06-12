@@ -10,7 +10,7 @@ namespace ArrayQuestions
 {
     public class Problem4
     {
-                /*4. Write a C# Sharp program to copy the elements of one array into another array.
+        /*4. Write a C# Sharp program to copy the elements of one array into another array.
         Test Data :
         Input the number of elements to be stored in the array :3
         Input 3 elements in the array :
@@ -22,6 +22,7 @@ namespace ArrayQuestions
         15 10 12
         The elements copied into the second array are :
         15 10 12*/
+
 
         public static void copy() {
             Console.WriteLine("Enter size of the array: - ");

@@ -16,7 +16,10 @@
             //Problem3.sumofelement();
 
             //problem 4
-            Problem4.copy();
+            //Problem4.copy();
+
+            //problem 5
+            Problem5.findduplicate();
         }
     }
 }
