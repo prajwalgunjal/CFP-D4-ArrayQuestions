@@ -34,7 +34,10 @@
             //Problem10.findOddEven();
 
             //problem 11
-            Problem11.sortace();
+            //Problem11.sortace();
+
+            //problem 12
+            Problem12.sortdece();
         }
     }
 }
