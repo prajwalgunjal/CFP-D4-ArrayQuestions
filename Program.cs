@@ -31,7 +31,10 @@
             //Problem9.minmax();  
 
             //problem 10
-            Problem10.findOddEven();
+            //Problem10.findOddEven();
+
+            //problem 11
+            Problem11.sortace();
         }
     }
 }
