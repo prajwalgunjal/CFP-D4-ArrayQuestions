@@ -22,7 +22,6 @@ namespace ArrayQuestions
 
         public static void duplicate()
         {
-            int count = 0;
             Console.WriteLine("Enter size of the array: - ");
             int size = int.Parse(Console.ReadLine());
             int[] array = new int[size];

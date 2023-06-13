@@ -22,7 +22,13 @@
             //Problem5.findduplicate();
 
             //problem 6
-            Program6.duplicate();
+            //Program6.duplicate();
+
+            // problem 7
+            //problem7.merge();
+
+            // problem 9
+            Problem9.minmax();  
         }
     }
 }
