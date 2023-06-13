@@ -28,7 +28,10 @@
             //problem7.merge();
 
             // problem 9
-            Problem9.minmax();  
+            //Problem9.minmax();  
+
+            //problem 10
+            Problem10.findOddEven();
         }
     }
 }
