@@ -37,7 +37,10 @@
             //Problem11.sortace();
 
             //problem 12
-            Problem12.sortdece();
+            //Problem12.sortdece();
+
+            //Problem 13 
+            Problem13.modifyarray();
         }
     }
 }
